@@ -1,0 +1,6 @@
+main: com.jonah.lootprotect.BukkitPlugin
+name: LootProtect
+version: 1.0
+commands:
+  lpt:
+    description: Description command
